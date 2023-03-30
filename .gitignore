@@ -2,6 +2,7 @@
 
 # dependencies
 /package-lock.json
+# ignoring node modules
 /node_modules
 /.idea
 /.pnp
